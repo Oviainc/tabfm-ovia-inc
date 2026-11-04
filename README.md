@@ -1,3 +1,7 @@
+> **Ovia Inc fork — modification reference.** We maintain this fork of [google-research/tabfm](https://github.com/google-research/tabfm). **Modifications by Ovia Inc:** this reference note, added November 2026 as part of the collection-wide documentation pass; the expanded Ovia README treatment (Ovia section, story, topics and description) follows in the daily improvement queue. Upstream code and content are otherwise unchanged from the fork point, except where a later commit in this repository says so. Upstream credit: google-research. Licence: Apache-2.0 (see LICENSE where present).
+
+---
+
 # TabFM: Tabular Foundation Models
 
 TabFM (Tabular Foundation Model) is a scikit-learn compatible tabular foundation model. It allows you to perform zero-shot classification and regression on tabular datasets with mixed column types out-of-the-box.
